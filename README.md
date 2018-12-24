@@ -1,1 +1,1 @@
-# django_test
+# scrapy_test
